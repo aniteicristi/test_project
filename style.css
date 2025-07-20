@@ -3,7 +3,6 @@ p {
 }
 
 h1 {
-    color: rgb(173, 38, 38);
-    font-weight: bold;
-
+    color: aqua;
+    font-weight: italic;
 }
